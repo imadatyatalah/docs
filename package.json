@@ -92,7 +92,7 @@
     "@types/jest": "26.0.23",
     "@types/react": "17.0.9",
     "@types/react-helmet": "6.1.1",
-    "@types/styled-components": "5.1.9",
+    "@types/styled-components": "5.1.10",
     "gatsby-remark-sectionize": "1.0.0",
     "husky": "6.0.0",
     "jest": "27.0.3",
